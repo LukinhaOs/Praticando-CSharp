@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.1\Contrutores.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.1\Contrutores.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.1\Contrutores.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.1\Contrutores.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.1\Contrutores.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.1\Contrutores.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.1\Contrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.1\Contrutores.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.1\Contrutores.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.1\Contrutores.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.1\Contrutores.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.1\Contrutores.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.1\Contrutores.genruntimeconfig.cache

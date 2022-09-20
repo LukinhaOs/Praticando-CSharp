@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\bin\Debug\netcoreapp3.1\Exercício_Classe.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\bin\Debug\netcoreapp3.1\Exercício_Classe.deps.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\bin\Debug\netcoreapp3.1\Exercício_Classe.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\bin\Debug\netcoreapp3.1\Exercício_Classe.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\bin\Debug\netcoreapp3.1\Exercício_Classe.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\bin\Debug\netcoreapp3.1\Exercício_Classe.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_Classe\Exercício_Classe\obj\Debug\netcoreapp3.1\Exercício_Classe.genruntimeconfig.cache

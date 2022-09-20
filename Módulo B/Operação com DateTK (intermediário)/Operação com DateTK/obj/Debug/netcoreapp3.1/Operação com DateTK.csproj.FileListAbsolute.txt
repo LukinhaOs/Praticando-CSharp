@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\bin\Debug\netcoreapp3.1\Operação com DateTK.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\bin\Debug\netcoreapp3.1\Operação com DateTK.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\bin\Debug\netcoreapp3.1\Operação com DateTK.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\bin\Debug\netcoreapp3.1\Operação com DateTK.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\bin\Debug\netcoreapp3.1\Operação com DateTK.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\bin\Debug\netcoreapp3.1\Operação com DateTK.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\obj\Debug\netcoreapp3.1\Operação com DateTK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\obj\Debug\netcoreapp3.1\Operação com DateTK.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\obj\Debug\netcoreapp3.1\Operação com DateTK.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\obj\Debug\netcoreapp3.1\Operação com DateTK.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\obj\Debug\netcoreapp3.1\Operação com DateTK.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\obj\Debug\netcoreapp3.1\Operação com DateTK.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Operação com DateTK\Operação com DateTK\obj\Debug\netcoreapp3.1\Operação com DateTK.genruntimeconfig.cache

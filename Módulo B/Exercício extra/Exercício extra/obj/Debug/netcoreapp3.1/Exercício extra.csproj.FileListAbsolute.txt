@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\bin\Debug\netcoreapp3.1\Exercício extra.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\bin\Debug\netcoreapp3.1\Exercício extra.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\bin\Debug\netcoreapp3.1\Exercício extra.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\bin\Debug\netcoreapp3.1\Exercício extra.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\bin\Debug\netcoreapp3.1\Exercício extra.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\bin\Debug\netcoreapp3.1\Exercício extra.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício extra\Exercício extra\obj\Debug\netcoreapp3.1\Exercício extra.genruntimeconfig.cache

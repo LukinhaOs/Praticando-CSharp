@@ -1,0 +1,7 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_2.1\Exercício_2.1\bin\Debug\Exercício_2.1.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_2.1\Exercício_2.1\bin\Debug\Exercício_2.1.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_2.1\Exercício_2.1\bin\Debug\Exercício_2.1.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_2.1\Exercício_2.1\obj\Debug\Exercício_2.1.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_2.1\Exercício_2.1\obj\Debug\Exercício_2.1.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_2.1\Exercício_2.1\obj\Debug\Exercício_2.1.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_2.1\Exercício_2.1\obj\Debug\Exercício_2.1.pdb

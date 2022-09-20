@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\bin\Debug\netcoreapp3.1\Estrutura de repetição.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\bin\Debug\netcoreapp3.1\Estrutura de repetição.deps.json
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\bin\Debug\netcoreapp3.1\Estrutura de repetição.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\bin\Debug\netcoreapp3.1\Estrutura de repetição.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\bin\Debug\netcoreapp3.1\Estrutura de repetição.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\bin\Debug\netcoreapp3.1\Estrutura de repetição.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura de repetição\Estrutura de repetição\obj\Debug\netcoreapp3.1\Estrutura de repetição.genruntimeconfig.cache

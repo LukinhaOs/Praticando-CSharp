@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\bin\Debug\netcoreapp3.1\Teste_a_ser_excluído.exe
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\bin\Debug\netcoreapp3.1\Teste_a_ser_excluído.deps.json
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\bin\Debug\netcoreapp3.1\Teste_a_ser_excluído.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\bin\Debug\netcoreapp3.1\Teste_a_ser_excluído.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\bin\Debug\netcoreapp3.1\Teste_a_ser_excluído.dll
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\bin\Debug\netcoreapp3.1\Teste_a_ser_excluído.pdb
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.dll
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.pdb
+C:\Users\LucasSilva-AfixCode\Downloads\Teste_a_ser_excluído\Teste_a_ser_excluído\obj\Debug\netcoreapp3.1\Teste_a_ser_excluído.genruntimeconfig.cache

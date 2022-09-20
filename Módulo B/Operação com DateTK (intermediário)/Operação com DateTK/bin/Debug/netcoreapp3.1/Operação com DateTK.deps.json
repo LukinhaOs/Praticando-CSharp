@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Operação com DateTK/1.0.0": {
+        "runtime": {
+          "Operação com DateTK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Operação com DateTK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

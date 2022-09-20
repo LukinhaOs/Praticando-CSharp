@@ -1,0 +1,7 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_Gerais\bin\Debug\Exercícios_Gerais.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_Gerais\bin\Debug\Exercícios_Gerais.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_Gerais\bin\Debug\Exercícios_Gerais.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_Gerais\obj\Debug\Exercícios_Gerais.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_Gerais\obj\Debug\Exercícios_Gerais.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_Gerais\obj\Debug\Exercícios_Gerais.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_Gerais\obj\Debug\Exercícios_Gerais.pdb

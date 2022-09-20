@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\bin\Debug\netcoreapp3.1\Modificador ref.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\bin\Debug\netcoreapp3.1\Modificador ref.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\bin\Debug\netcoreapp3.1\Modificador ref.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\bin\Debug\netcoreapp3.1\Modificador ref.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\bin\Debug\netcoreapp3.1\Modificador ref.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\bin\Debug\netcoreapp3.1\Modificador ref.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\obj\Debug\netcoreapp3.1\Modificador ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\obj\Debug\netcoreapp3.1\Modificador ref.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\obj\Debug\netcoreapp3.1\Modificador ref.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\obj\Debug\netcoreapp3.1\Modificador ref.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\obj\Debug\netcoreapp3.1\Modificador ref.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\obj\Debug\netcoreapp3.1\Modificador ref.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Modificador ref\Modificador ref\obj\Debug\netcoreapp3.1\Modificador ref.genruntimeconfig.cache

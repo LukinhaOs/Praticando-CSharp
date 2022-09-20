@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\bin\Debug\netcoreapp3.1\Pedido Composição.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\bin\Debug\netcoreapp3.1\Pedido Composição.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\bin\Debug\netcoreapp3.1\Pedido Composição.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\bin\Debug\netcoreapp3.1\Pedido Composição.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\bin\Debug\netcoreapp3.1\Pedido Composição.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\bin\Debug\netcoreapp3.1\Pedido Composição.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Pedido Composição\Pedido Composição\obj\Debug\netcoreapp3.1\Pedido Composição.genruntimeconfig.cache

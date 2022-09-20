@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\bin\Debug\netcoreapp3.1\Exercício fixação Lista.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\bin\Debug\netcoreapp3.1\Exercício fixação Lista.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\bin\Debug\netcoreapp3.1\Exercício fixação Lista.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\bin\Debug\netcoreapp3.1\Exercício fixação Lista.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\bin\Debug\netcoreapp3.1\Exercício fixação Lista.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\bin\Debug\netcoreapp3.1\Exercício fixação Lista.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício fixação Lista\Exercício fixação Lista\obj\Debug\netcoreapp3.1\Exercício fixação Lista.genruntimeconfig.cache

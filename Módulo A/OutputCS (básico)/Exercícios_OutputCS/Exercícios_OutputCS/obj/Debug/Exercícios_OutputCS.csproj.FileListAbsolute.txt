@@ -1,0 +1,7 @@
+C:\Users\LucasSilva-AfixCode\source\repos\OutputCS\Exercícios_OutputCS\Exercícios_OutputCS\bin\Debug\Exercícios_OutputCS.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\OutputCS\Exercícios_OutputCS\Exercícios_OutputCS\bin\Debug\Exercícios_OutputCS.exe
+C:\Users\LucasSilva-AfixCode\source\repos\OutputCS\Exercícios_OutputCS\Exercícios_OutputCS\bin\Debug\Exercícios_OutputCS.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\OutputCS\Exercícios_OutputCS\Exercícios_OutputCS\obj\Debug\Exercícios_OutputCS.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\OutputCS\Exercícios_OutputCS\Exercícios_OutputCS\obj\Debug\Exercícios_OutputCS.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\OutputCS\Exercícios_OutputCS\Exercícios_OutputCS\obj\Debug\Exercícios_OutputCS.exe
+C:\Users\LucasSilva-AfixCode\source\repos\OutputCS\Exercícios_OutputCS\Exercícios_OutputCS\obj\Debug\Exercícios_OutputCS.pdb

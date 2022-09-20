@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\bin\Debug\netcoreapp3.1\Exercício fixação Vetores.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\bin\Debug\netcoreapp3.1\Exercício fixação Vetores.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\bin\Debug\netcoreapp3.1\Exercício fixação Vetores.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\bin\Debug\netcoreapp3.1\Exercício fixação Vetores.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\bin\Debug\netcoreapp3.1\Exercício fixação Vetores.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\bin\Debug\netcoreapp3.1\Exercício fixação Vetores.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício fixação Vetores\Exercício fixação Vetores\obj\Debug\netcoreapp3.1\Exercício fixação Vetores.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\bin\Debug\netcoreapp3.1\Operador de coalescência nula.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Operador de coalescência nula\Operador de coalescência nula\obj\Debug\netcoreapp3.1\Operador de coalescência nula.genruntimeconfig.cache

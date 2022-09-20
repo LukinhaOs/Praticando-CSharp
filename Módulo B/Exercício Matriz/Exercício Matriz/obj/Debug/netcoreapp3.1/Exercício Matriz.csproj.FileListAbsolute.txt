@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\bin\Debug\netcoreapp3.1\Exercício Matriz.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\bin\Debug\netcoreapp3.1\Exercício Matriz.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\bin\Debug\netcoreapp3.1\Exercício Matriz.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\bin\Debug\netcoreapp3.1\Exercício Matriz.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\bin\Debug\netcoreapp3.1\Exercício Matriz.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\bin\Debug\netcoreapp3.1\Exercício Matriz.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\obj\Debug\netcoreapp3.1\Exercício Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\obj\Debug\netcoreapp3.1\Exercício Matriz.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\obj\Debug\netcoreapp3.1\Exercício Matriz.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\obj\Debug\netcoreapp3.1\Exercício Matriz.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\obj\Debug\netcoreapp3.1\Exercício Matriz.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\obj\Debug\netcoreapp3.1\Exercício Matriz.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício Matriz\Exercício Matriz\obj\Debug\netcoreapp3.1\Exercício Matriz.genruntimeconfig.cache

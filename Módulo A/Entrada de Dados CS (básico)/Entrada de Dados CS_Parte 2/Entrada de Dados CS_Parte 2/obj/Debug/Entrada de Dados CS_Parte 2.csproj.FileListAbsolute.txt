@@ -1,0 +1,7 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Entrada de Dados CS_Parte 2\bin\Debug\Entrada de Dados CS_Parte 2.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Entrada de Dados CS_Parte 2\bin\Debug\Entrada de Dados CS_Parte 2.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Entrada de Dados CS_Parte 2\bin\Debug\Entrada de Dados CS_Parte 2.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Entrada de Dados CS_Parte 2\obj\Debug\Entrada de Dados CS_Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Entrada de Dados CS_Parte 2\obj\Debug\Entrada de Dados CS_Parte 2.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Entrada de Dados CS_Parte 2\obj\Debug\Entrada de Dados CS_Parte 2.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Entrada de Dados CS_Parte 2\obj\Debug\Entrada de Dados CS_Parte 2.csproj.AssemblyReference.cache

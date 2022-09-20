@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\bin\Debug\netcoreapp3.1\Exercício_4.4.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\bin\Debug\netcoreapp3.1\Exercício_4.4.deps.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\bin\Debug\netcoreapp3.1\Exercício_4.4.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\bin\Debug\netcoreapp3.1\Exercício_4.4.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\bin\Debug\netcoreapp3.1\Exercício_4.4.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\bin\Debug\netcoreapp3.1\Exercício_4.4.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercício_4.4\Exercício_4.4\obj\Debug\netcoreapp3.1\Exercício_4.4.genruntimeconfig.cache

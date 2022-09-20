@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\bin\Debug\netcoreapp3.1\Propriedades com Time Span.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\bin\Debug\netcoreapp3.1\Propriedades com Time Span.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\bin\Debug\netcoreapp3.1\Propriedades com Time Span.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\bin\Debug\netcoreapp3.1\Propriedades com Time Span.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\bin\Debug\netcoreapp3.1\Propriedades com Time Span.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\bin\Debug\netcoreapp3.1\Propriedades com Time Span.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\obj\Debug\netcoreapp3.1\Propriedades com Time Span.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\obj\Debug\netcoreapp3.1\Propriedades com Time Span.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\obj\Debug\netcoreapp3.1\Propriedades com Time Span.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\obj\Debug\netcoreapp3.1\Propriedades com Time Span.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\obj\Debug\netcoreapp3.1\Propriedades com Time Span.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\obj\Debug\netcoreapp3.1\Propriedades com Time Span.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Propriedades com Time Span\Propriedades com Time Span\obj\Debug\netcoreapp3.1\Propriedades com Time Span.genruntimeconfig.cache

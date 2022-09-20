@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\bin\Debug\netcoreapp3.1\For e Foreach.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\bin\Debug\netcoreapp3.1\For e Foreach.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\bin\Debug\netcoreapp3.1\For e Foreach.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\bin\Debug\netcoreapp3.1\For e Foreach.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\bin\Debug\netcoreapp3.1\For e Foreach.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\bin\Debug\netcoreapp3.1\For e Foreach.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\obj\Debug\netcoreapp3.1\For e Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\obj\Debug\netcoreapp3.1\For e Foreach.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\obj\Debug\netcoreapp3.1\For e Foreach.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\obj\Debug\netcoreapp3.1\For e Foreach.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\obj\Debug\netcoreapp3.1\For e Foreach.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\obj\Debug\netcoreapp3.1\For e Foreach.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\For e Foreach\For e Foreach\obj\Debug\netcoreapp3.1\For e Foreach.genruntimeconfig.cache

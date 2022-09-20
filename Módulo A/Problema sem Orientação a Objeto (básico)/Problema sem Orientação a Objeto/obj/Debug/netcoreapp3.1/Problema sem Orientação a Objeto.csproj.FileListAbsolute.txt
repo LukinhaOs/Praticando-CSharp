@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\bin\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\bin\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.deps.json
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\bin\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\bin\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\bin\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\bin\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Problema sem Orientação a Objeto\Problema sem Orientação a Objeto\obj\Debug\netcoreapp3.1\Problema sem Orientação a Objeto.genruntimeconfig.cache

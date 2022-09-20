@@ -1,0 +1,6 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_2.3\Exercícios_2.3\bin\Debug\Exercícios_2.3.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_2.3\Exercícios_2.3\bin\Debug\Exercícios_2.3.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_2.3\Exercícios_2.3\bin\Debug\Exercícios_2.3.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_2.3\Exercícios_2.3\obj\Debug\Exercícios_2.3.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_2.3\Exercícios_2.3\obj\Debug\Exercícios_2.3.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_2.3\Exercícios_2.3\obj\Debug\Exercícios_2.3.pdb

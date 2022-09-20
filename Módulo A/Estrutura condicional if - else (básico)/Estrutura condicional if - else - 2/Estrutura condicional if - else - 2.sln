@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutura condicional if - else - 2", "Estrutura condicional if - else - 2\Estrutura condicional if - else - 2.csproj", "{366DA1A7-F77D-44A2-B116-C2C35ADC8216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366DA1A7-F77D-44A2-B116-C2C35ADC8216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366DA1A7-F77D-44A2-B116-C2C35ADC8216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366DA1A7-F77D-44A2-B116-C2C35ADC8216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366DA1A7-F77D-44A2-B116-C2C35ADC8216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {622470E7-850A-4AFB-9951-3509632BF134}
+	EndGlobalSection
+EndGlobal

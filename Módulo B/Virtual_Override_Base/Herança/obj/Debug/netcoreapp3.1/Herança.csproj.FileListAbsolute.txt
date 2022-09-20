@@ -1,0 +1,42 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.genruntimeconfig.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\bin\Debug\netcoreapp3.1\Herança.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\bin\Debug\netcoreapp3.1\Herança.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\bin\Debug\netcoreapp3.1\Herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\bin\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\UpCasting e DownCasting\Herança\obj\Debug\netcoreapp3.1\Herança.genruntimeconfig.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\bin\Debug\netcoreapp3.1\Herança.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\bin\Debug\netcoreapp3.1\Herança.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\bin\Debug\netcoreapp3.1\Herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\bin\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Virtual_Override_Base\Herança\obj\Debug\netcoreapp3.1\Herança.genruntimeconfig.cache

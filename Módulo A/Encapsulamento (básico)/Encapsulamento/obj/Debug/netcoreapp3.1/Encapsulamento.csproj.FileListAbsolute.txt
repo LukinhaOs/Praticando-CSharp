@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache

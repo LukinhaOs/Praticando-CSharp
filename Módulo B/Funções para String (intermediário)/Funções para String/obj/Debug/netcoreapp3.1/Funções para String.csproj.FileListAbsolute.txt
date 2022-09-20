@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\bin\Debug\netcoreapp3.1\Funções para String.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\bin\Debug\netcoreapp3.1\Funções para String.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\bin\Debug\netcoreapp3.1\Funções para String.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\bin\Debug\netcoreapp3.1\Funções para String.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\bin\Debug\netcoreapp3.1\Funções para String.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\bin\Debug\netcoreapp3.1\Funções para String.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\obj\Debug\netcoreapp3.1\Funções para String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\obj\Debug\netcoreapp3.1\Funções para String.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\obj\Debug\netcoreapp3.1\Funções para String.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\obj\Debug\netcoreapp3.1\Funções para String.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\obj\Debug\netcoreapp3.1\Funções para String.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\obj\Debug\netcoreapp3.1\Funções para String.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Funções para String\Funções para String\obj\Debug\netcoreapp3.1\Funções para String.genruntimeconfig.cache

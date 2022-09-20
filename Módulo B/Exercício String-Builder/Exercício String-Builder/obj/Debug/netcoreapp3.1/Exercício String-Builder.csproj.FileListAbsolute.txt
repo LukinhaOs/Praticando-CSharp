@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\bin\Debug\netcoreapp3.1\Exercício String-Builder.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\bin\Debug\netcoreapp3.1\Exercício String-Builder.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\bin\Debug\netcoreapp3.1\Exercício String-Builder.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\bin\Debug\netcoreapp3.1\Exercício String-Builder.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\bin\Debug\netcoreapp3.1\Exercício String-Builder.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\bin\Debug\netcoreapp3.1\Exercício String-Builder.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício String-Builder\Exercício String-Builder\obj\Debug\netcoreapp3.1\Exercício String-Builder.genruntimeconfig.cache

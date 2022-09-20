@@ -1,0 +1,7 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Funções (sintaxe)\Funções (sintaxe)\bin\Debug\Funções (sintaxe).exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Funções (sintaxe)\Funções (sintaxe)\bin\Debug\Funções (sintaxe).exe
+C:\Users\LucasSilva-AfixCode\source\repos\Funções (sintaxe)\Funções (sintaxe)\bin\Debug\Funções (sintaxe).pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Funções (sintaxe)\Funções (sintaxe)\obj\Debug\Funções (sintaxe).csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Funções (sintaxe)\Funções (sintaxe)\obj\Debug\Funções (sintaxe).csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Funções (sintaxe)\Funções (sintaxe)\obj\Debug\Funções (sintaxe).exe
+C:\Users\LucasSilva-AfixCode\source\repos\Funções (sintaxe)\Funções (sintaxe)\obj\Debug\Funções (sintaxe).pdb

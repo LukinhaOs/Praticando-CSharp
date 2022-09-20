@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\bin\Debug\netcoreapp3.1\Orientação a Objeto.2.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\bin\Debug\netcoreapp3.1\Orientação a Objeto.2.deps.json
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\bin\Debug\netcoreapp3.1\Orientação a Objeto.2.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\bin\Debug\netcoreapp3.1\Orientação a Objeto.2.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\bin\Debug\netcoreapp3.1\Orientação a Objeto.2.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\bin\Debug\netcoreapp3.1\Orientação a Objeto.2.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\obj\Debug\netcoreapp3.1\Orientação a Objeto.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\obj\Debug\netcoreapp3.1\Orientação a Objeto.2.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\obj\Debug\netcoreapp3.1\Orientação a Objeto.2.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\obj\Debug\netcoreapp3.1\Orientação a Objeto.2.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\obj\Debug\netcoreapp3.1\Orientação a Objeto.2.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\obj\Debug\netcoreapp3.1\Orientação a Objeto.2.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Orientação a Objeto.2\Orientação a Objeto.2\obj\Debug\netcoreapp3.1\Orientação a Objeto.2.genruntimeconfig.cache

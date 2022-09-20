@@ -1,0 +1,6 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Exercício\Exercício\bin\Debug\Exercício.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Exercício\Exercício\bin\Debug\Exercício.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Exercício\Exercício\bin\Debug\Exercício.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Exercício\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Exercício\Exercício\obj\Debug\Exercício.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Entrada de Dados CS\Entrada de Dados CS_Parte 2\Exercício\Exercício\obj\Debug\Exercício.pdb

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\bin\Debug\netcoreapp3.1\Exercícios_4.3.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\bin\Debug\netcoreapp3.1\Exercícios_4.3.deps.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\bin\Debug\netcoreapp3.1\Exercícios_4.3.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\bin\Debug\netcoreapp3.1\Exercícios_4.3.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\bin\Debug\netcoreapp3.1\Exercícios_4.3.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\bin\Debug\netcoreapp3.1\Exercícios_4.3.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_4.3\Exercícios_4.3\obj\Debug\netcoreapp3.1\Exercícios_4.3.genruntimeconfig.cache

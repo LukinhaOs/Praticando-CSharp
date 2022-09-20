@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\bin\Debug\Exercícios_CO_3.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\bin\Debug\Exercícios_CO_3.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\bin\Debug\Exercícios_CO_3.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Programação_AfixCode\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\bin\Debug\Exercícios_CO_3.exe.config
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Programação_AfixCode\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\bin\Debug\Exercícios_CO_3.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Programação_AfixCode\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\bin\Debug\Exercícios_CO_3.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Programação_AfixCode\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Programação_AfixCode\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Programação_AfixCode\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Programação_AfixCode\Exercícios_Gerais\Exercícios_CO_3\Exercícios_CO_3\obj\Debug\Exercícios_CO_3.pdb

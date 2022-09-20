@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\bin\Debug\netcoreapp3.1\Exercício Composição de Objetos.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\bin\Debug\netcoreapp3.1\Exercício Composição de Objetos.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\bin\Debug\netcoreapp3.1\Exercício Composição de Objetos.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\bin\Debug\netcoreapp3.1\Exercício Composição de Objetos.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\bin\Debug\netcoreapp3.1\Exercício Composição de Objetos.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\bin\Debug\netcoreapp3.1\Exercício Composição de Objetos.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício Composição de Objetos\Exercício Composição de Objetos\obj\Debug\netcoreapp3.1\Exercício Composição de Objetos.genruntimeconfig.cache

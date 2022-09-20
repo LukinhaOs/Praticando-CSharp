@@ -1,0 +1,7 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura condicional if - else\Estrutura condicional if - else\bin\Debug\Estrutura condicional if - else.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura condicional if - else\Estrutura condicional if - else\bin\Debug\Estrutura condicional if - else.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura condicional if - else\Estrutura condicional if - else\bin\Debug\Estrutura condicional if - else.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura condicional if - else\Estrutura condicional if - else\obj\Debug\Estrutura condicional if - else.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura condicional if - else\Estrutura condicional if - else\obj\Debug\Estrutura condicional if - else.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura condicional if - else\Estrutura condicional if - else\obj\Debug\Estrutura condicional if - else.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Estrutura condicional if - else\Estrutura condicional if - else\obj\Debug\Estrutura condicional if - else.pdb

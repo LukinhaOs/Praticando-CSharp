@@ -1,0 +1,6 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Praticando CSharp\Praticando CSharp\bin\Debug\Praticando CSharp.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Praticando CSharp\Praticando CSharp\bin\Debug\Praticando CSharp.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Praticando CSharp\Praticando CSharp\bin\Debug\Praticando CSharp.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Praticando CSharp\Praticando CSharp\obj\Debug\Praticando CSharp.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Praticando CSharp\Praticando CSharp\obj\Debug\Praticando CSharp.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Praticando CSharp\Praticando CSharp\obj\Debug\Praticando CSharp.pdb

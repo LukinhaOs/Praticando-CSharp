@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\bin\Debug\netcoreapp3.1\Durações com Timespan.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\bin\Debug\netcoreapp3.1\Durações com Timespan.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\bin\Debug\netcoreapp3.1\Durações com Timespan.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\bin\Debug\netcoreapp3.1\Durações com Timespan.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\bin\Debug\netcoreapp3.1\Durações com Timespan.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\bin\Debug\netcoreapp3.1\Durações com Timespan.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\obj\Debug\netcoreapp3.1\Durações com Timespan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\obj\Debug\netcoreapp3.1\Durações com Timespan.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\obj\Debug\netcoreapp3.1\Durações com Timespan.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\obj\Debug\netcoreapp3.1\Durações com Timespan.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\obj\Debug\netcoreapp3.1\Durações com Timespan.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\obj\Debug\netcoreapp3.1\Durações com Timespan.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Módulo B\Durações com Timespan\Durações com Timespan\obj\Debug\netcoreapp3.1\Durações com Timespan.genruntimeconfig.cache

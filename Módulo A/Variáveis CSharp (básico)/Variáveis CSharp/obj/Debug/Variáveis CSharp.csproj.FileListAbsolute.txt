@@ -1,0 +1,7 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Variáveis CSharp\Variáveis CSharp\bin\Debug\Variáveis CSharp.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Variáveis CSharp\Variáveis CSharp\bin\Debug\Variáveis CSharp.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Variáveis CSharp\Variáveis CSharp\bin\Debug\Variáveis CSharp.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Variáveis CSharp\Variáveis CSharp\obj\Debug\Variáveis CSharp.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Variáveis CSharp\Variáveis CSharp\obj\Debug\Variáveis CSharp.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Variáveis CSharp\Variáveis CSharp\obj\Debug\Variáveis CSharp.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Variáveis CSharp\Variáveis CSharp\obj\Debug\Variáveis CSharp.pdb

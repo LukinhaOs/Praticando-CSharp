@@ -1,0 +1,6 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Conversão implicíta e casting\Conversão implicíta e casting\bin\Debug\Conversão implicíta e casting.exe.config
+C:\Users\LucasSilva-AfixCode\source\repos\Conversão implicíta e casting\Conversão implicíta e casting\bin\Debug\Conversão implicíta e casting.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Conversão implicíta e casting\Conversão implicíta e casting\bin\Debug\Conversão implicíta e casting.pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Conversão implicíta e casting\Conversão implicíta e casting\obj\Debug\Conversão implicíta e casting.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Conversão implicíta e casting\Conversão implicíta e casting\obj\Debug\Conversão implicíta e casting.exe
+C:\Users\LucasSilva-AfixCode\source\repos\Conversão implicíta e casting\Conversão implicíta e casting\obj\Debug\Conversão implicíta e casting.pdb

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\bin\Debug\netcoreapp3.1\Estrutura repetitiva (for).exe
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\bin\Debug\netcoreapp3.1\Estrutura repetitiva (for).deps.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\bin\Debug\netcoreapp3.1\Estrutura repetitiva (for).runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\bin\Debug\netcoreapp3.1\Estrutura repetitiva (for).runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\bin\Debug\netcoreapp3.1\Estrutura repetitiva (for).dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\bin\Debug\netcoreapp3.1\Estrutura repetitiva (for).pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).dll
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).pdb
+C:\Users\LucasSilva-AfixCode\source\repos\Exercícios_Gerais\Estrutura repetitiva (for)\Estrutura repetitiva (for)\obj\Debug\netcoreapp3.1\Estrutura repetitiva (for).genruntimeconfig.cache

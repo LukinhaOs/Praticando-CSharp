@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\bin\Debug\netcoreapp3.1\Exercício Encapsulamento.exe
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\bin\Debug\netcoreapp3.1\Exercício Encapsulamento.deps.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\bin\Debug\netcoreapp3.1\Exercício Encapsulamento.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\bin\Debug\netcoreapp3.1\Exercício Encapsulamento.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\bin\Debug\netcoreapp3.1\Exercício Encapsulamento.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\bin\Debug\netcoreapp3.1\Exercício Encapsulamento.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.dll
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.pdb
+C:\Users\LucasSilva-AfixCode\OneDrive - AFIXCODE\Documentos\Programação_CSharp\Exercício\Exercício Encapsulamento\Exercício Encapsulamento\obj\Debug\netcoreapp3.1\Exercício Encapsulamento.genruntimeconfig.cache
