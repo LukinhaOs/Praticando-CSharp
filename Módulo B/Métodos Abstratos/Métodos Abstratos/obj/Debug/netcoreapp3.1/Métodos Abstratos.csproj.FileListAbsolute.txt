@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\bin\Debug\netcoreapp3.1\Métodos Abstratos.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.genruntimeconfig.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos\Métodos Abstratos\obj\Debug\netcoreapp3.1\Métodos Abstratos.csproj.AssemblyReference.cache

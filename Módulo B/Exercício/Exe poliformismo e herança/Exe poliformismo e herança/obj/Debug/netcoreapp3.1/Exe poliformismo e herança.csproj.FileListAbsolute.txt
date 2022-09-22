@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\bin\Debug\netcoreapp3.1\Exe poliformismo e herança.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\bin\Debug\netcoreapp3.1\Exe poliformismo e herança.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\bin\Debug\netcoreapp3.1\Exe poliformismo e herança.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\bin\Debug\netcoreapp3.1\Exe poliformismo e herança.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\bin\Debug\netcoreapp3.1\Exe poliformismo e herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\bin\Debug\netcoreapp3.1\Exe poliformismo e herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Exe poliformismo e herança\Exe poliformismo e herança\obj\Debug\netcoreapp3.1\Exe poliformismo e herança.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\bin\Debug\netcoreapp3.1\Contribuinte Imposto.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\bin\Debug\netcoreapp3.1\Contribuinte Imposto.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\bin\Debug\netcoreapp3.1\Contribuinte Imposto.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\bin\Debug\netcoreapp3.1\Contribuinte Imposto.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\bin\Debug\netcoreapp3.1\Contribuinte Imposto.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\bin\Debug\netcoreapp3.1\Contribuinte Imposto.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Exercício\Contribuinte Imposto\Contribuinte Imposto\obj\Debug\netcoreapp3.1\Contribuinte Imposto.genruntimeconfig.cache

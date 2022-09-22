@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\obj\Debug\netcoreapp3.1\Métodos Abstratos Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\obj\Debug\netcoreapp3.1\Métodos Abstratos Pratica.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\obj\Debug\netcoreapp3.1\Métodos Abstratos Pratica.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\obj\Debug\netcoreapp3.1\Métodos Abstratos Pratica.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\bin\Debug\netcoreapp3.1\Métodos Abstratos Pratica.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\bin\Debug\netcoreapp3.1\Métodos Abstratos Pratica.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\bin\Debug\netcoreapp3.1\Métodos Abstratos Pratica.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\bin\Debug\netcoreapp3.1\Métodos Abstratos Pratica.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\bin\Debug\netcoreapp3.1\Métodos Abstratos Pratica.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\bin\Debug\netcoreapp3.1\Métodos Abstratos Pratica.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\obj\Debug\netcoreapp3.1\Métodos Abstratos Pratica.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\obj\Debug\netcoreapp3.1\Métodos Abstratos Pratica.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo B\Métodos Abstratos Pratica\Métodos Abstratos Pratica\obj\Debug\netcoreapp3.1\Métodos Abstratos Pratica.genruntimeconfig.cache
