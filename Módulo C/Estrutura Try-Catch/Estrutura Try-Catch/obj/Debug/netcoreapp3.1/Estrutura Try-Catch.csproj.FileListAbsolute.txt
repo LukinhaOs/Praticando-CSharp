@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\bin\Debug\netcoreapp3.1\Estrutura Try-Catch.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\bin\Debug\netcoreapp3.1\Estrutura Try-Catch.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\bin\Debug\netcoreapp3.1\Estrutura Try-Catch.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\bin\Debug\netcoreapp3.1\Estrutura Try-Catch.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\bin\Debug\netcoreapp3.1\Estrutura Try-Catch.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\bin\Debug\netcoreapp3.1\Estrutura Try-Catch.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Estrutura Try-Catch\Estrutura Try-Catch\obj\Debug\netcoreapp3.1\Estrutura Try-Catch.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\bin\Debug\netcoreapp3.1\Criando Exceções Personalizadas.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\bin\Debug\netcoreapp3.1\Criando Exceções Personalizadas.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\bin\Debug\netcoreapp3.1\Criando Exceções Personalizadas.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\bin\Debug\netcoreapp3.1\Criando Exceções Personalizadas.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\bin\Debug\netcoreapp3.1\Criando Exceções Personalizadas.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\bin\Debug\netcoreapp3.1\Criando Exceções Personalizadas.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\obj\Debug\netcoreapp3.1\Criando Exceções Personalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\obj\Debug\netcoreapp3.1\Criando Exceções Personalizadas.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\obj\Debug\netcoreapp3.1\Criando Exceções Personalizadas.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\obj\Debug\netcoreapp3.1\Criando Exceções Personalizadas.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\obj\Debug\netcoreapp3.1\Criando Exceções Personalizadas.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\obj\Debug\netcoreapp3.1\Criando Exceções Personalizadas.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Criando Exceções Personalizadas\Criando Exceções Personalizadas\obj\Debug\netcoreapp3.1\Criando Exceções Personalizadas.genruntimeconfig.cache

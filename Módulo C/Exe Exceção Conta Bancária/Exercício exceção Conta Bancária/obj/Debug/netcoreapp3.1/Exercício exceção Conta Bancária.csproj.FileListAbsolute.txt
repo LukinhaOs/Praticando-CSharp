@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\bin\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\bin\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\bin\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\bin\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\bin\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\bin\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício exceção Conta Bancária\Exercício exceção Conta Bancária\obj\Debug\netcoreapp3.1\Exercício exceção Conta Bancária.genruntimeconfig.cache
