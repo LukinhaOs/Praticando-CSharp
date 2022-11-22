@@ -12,6 +12,9 @@ namespace Operadores_L_e_C
         {
             // OPERADORES DE COMPARAÇÃO
 
+            Console.WriteLine(" ----- OPERADORES DE COMPARAÇÃO ----- ");
+            Console.WriteLine();
+
             int a = 10;
             bool c1 = a < 10;
             bool c2 = a < 20;

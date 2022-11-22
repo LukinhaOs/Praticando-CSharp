@@ -5,3 +5,10 @@ C:\Users\LucasSilva-AfixCode\source\repos\Operadores L e C\Operadores L e C\obj\
 C:\Users\LucasSilva-AfixCode\source\repos\Operadores L e C\Operadores L e C\obj\Debug\Operadores L e C.csproj.CoreCompileInputs.cache
 C:\Users\LucasSilva-AfixCode\source\repos\Operadores L e C\Operadores L e C\obj\Debug\Operadores L e C.exe
 C:\Users\LucasSilva-AfixCode\source\repos\Operadores L e C\Operadores L e C\obj\Debug\Operadores L e C.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo A\Operadores L e C\Operadores L e C\bin\Debug\Operadores L e C.exe.config
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo A\Operadores L e C\Operadores L e C\bin\Debug\Operadores L e C.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo A\Operadores L e C\Operadores L e C\bin\Debug\Operadores L e C.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo A\Operadores L e C\Operadores L e C\obj\Debug\Operadores L e C.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo A\Operadores L e C\Operadores L e C\obj\Debug\Operadores L e C.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo A\Operadores L e C\Operadores L e C\obj\Debug\Operadores L e C.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo A\Operadores L e C\Operadores L e C\obj\Debug\Operadores L e C.pdb
