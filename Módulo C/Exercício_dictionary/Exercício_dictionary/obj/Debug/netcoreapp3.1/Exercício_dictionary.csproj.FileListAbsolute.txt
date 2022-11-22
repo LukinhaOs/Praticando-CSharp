@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\bin\Debug\netcoreapp3.1\Exercício_dictionary.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\bin\Debug\netcoreapp3.1\Exercício_dictionary.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\bin\Debug\netcoreapp3.1\Exercício_dictionary.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\bin\Debug\netcoreapp3.1\Exercício_dictionary.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\bin\Debug\netcoreapp3.1\Exercício_dictionary.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\bin\Debug\netcoreapp3.1\Exercício_dictionary.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_dictionary\Exercício_dictionary\obj\Debug\netcoreapp3.1\Exercício_dictionary.genruntimeconfig.cache

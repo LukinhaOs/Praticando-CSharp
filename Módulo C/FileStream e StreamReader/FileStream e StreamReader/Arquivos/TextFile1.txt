@@ -1,0 +1,3 @@
+﻿Esse arquivo será aberto e lido.
+Comandos a se utilizar. FileStrem e StreamReader!
+Tudo certo :D

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\bin\Debug\netcoreapp3.1\Restricao_Generic.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\bin\Debug\netcoreapp3.1\Restricao_Generic.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\bin\Debug\netcoreapp3.1\Restricao_Generic.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\bin\Debug\netcoreapp3.1\Restricao_Generic.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\bin\Debug\netcoreapp3.1\Restricao_Generic.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\bin\Debug\netcoreapp3.1\Restricao_Generic.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Restricao_Generic\Restricao_Generic\obj\Debug\netcoreapp3.1\Restricao_Generic.genruntimeconfig.cache

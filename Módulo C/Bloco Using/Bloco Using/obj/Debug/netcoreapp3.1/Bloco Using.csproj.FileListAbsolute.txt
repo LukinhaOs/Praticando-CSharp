@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\bin\Debug\netcoreapp3.1\Bloco Using.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\bin\Debug\netcoreapp3.1\Bloco Using.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\bin\Debug\netcoreapp3.1\Bloco Using.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\bin\Debug\netcoreapp3.1\Bloco Using.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\bin\Debug\netcoreapp3.1\Bloco Using.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\bin\Debug\netcoreapp3.1\Bloco Using.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Bloco Using\Bloco Using\obj\Debug\netcoreapp3.1\Bloco Using.genruntimeconfig.cache

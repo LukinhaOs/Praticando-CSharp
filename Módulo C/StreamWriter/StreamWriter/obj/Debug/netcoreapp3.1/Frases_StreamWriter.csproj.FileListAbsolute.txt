@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\Frases_StreamWriter.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\Frases_StreamWriter.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\Frases_StreamWriter.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\Frases_StreamWriter.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\Frases_StreamWriter.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\bin\Debug\netcoreapp3.1\Frases_StreamWriter.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\StreamWriter\StreamWriter\obj\Debug\netcoreapp3.1\Frases_StreamWriter.genruntimeconfig.cache

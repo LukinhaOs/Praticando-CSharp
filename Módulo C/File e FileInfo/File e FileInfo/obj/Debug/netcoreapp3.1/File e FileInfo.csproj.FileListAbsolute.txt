@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\bin\Debug\netcoreapp3.1\File e FileInfo.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\bin\Debug\netcoreapp3.1\File e FileInfo.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\bin\Debug\netcoreapp3.1\File e FileInfo.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\bin\Debug\netcoreapp3.1\File e FileInfo.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\bin\Debug\netcoreapp3.1\File e FileInfo.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\bin\Debug\netcoreapp3.1\File e FileInfo.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\File e FileInfo\File e FileInfo\obj\Debug\netcoreapp3.1\File e FileInfo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\bin\Debug\netcoreapp3.1\Generics_Set_Dictionary.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\bin\Debug\netcoreapp3.1\Generics_Set_Dictionary.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\bin\Debug\netcoreapp3.1\Generics_Set_Dictionary.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\bin\Debug\netcoreapp3.1\Generics_Set_Dictionary.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\bin\Debug\netcoreapp3.1\Generics_Set_Dictionary.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\bin\Debug\netcoreapp3.1\Generics_Set_Dictionary.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Generics_Set_Dictionary\Generics_Set_Dictionary\obj\Debug\netcoreapp3.1\Generics_Set_Dictionary.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\netcoreapp3.1\FileStream e StreamReader.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\netcoreapp3.1\FileStream e StreamReader.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\netcoreapp3.1\FileStream e StreamReader.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\netcoreapp3.1\FileStream e StreamReader.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\netcoreapp3.1\FileStream e StreamReader.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\bin\Debug\netcoreapp3.1\FileStream e StreamReader.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\FileStream e StreamReader\FileStream e StreamReader\obj\Debug\netcoreapp3.1\FileStream e StreamReader.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\netcoreapp3.1\GetHashCode e Equals.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\netcoreapp3.1\GetHashCode e Equals.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\netcoreapp3.1\GetHashCode e Equals.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\netcoreapp3.1\GetHashCode e Equals.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\netcoreapp3.1\GetHashCode e Equals.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\bin\Debug\netcoreapp3.1\GetHashCode e Equals.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\netcoreapp3.1\GetHashCode e Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\netcoreapp3.1\GetHashCode e Equals.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\netcoreapp3.1\GetHashCode e Equals.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\netcoreapp3.1\GetHashCode e Equals.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\netcoreapp3.1\GetHashCode e Equals.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\netcoreapp3.1\GetHashCode e Equals.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\GetHashCode e Equals\GetHashCode e Equals\obj\Debug\netcoreapp3.1\GetHashCode e Equals.genruntimeconfig.cache

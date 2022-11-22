@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\bin\Debug\netcoreapp3.1\Exercício_conjuntos - Set.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\bin\Debug\netcoreapp3.1\Exercício_conjuntos - Set.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\bin\Debug\netcoreapp3.1\Exercício_conjuntos - Set.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\bin\Debug\netcoreapp3.1\Exercício_conjuntos - Set.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\bin\Debug\netcoreapp3.1\Exercício_conjuntos - Set.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\bin\Debug\netcoreapp3.1\Exercício_conjuntos - Set.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício_conjuntos - Set\Exercício_conjuntos - Set\obj\Debug\netcoreapp3.1\Exercício_conjuntos - Set.genruntimeconfig.cache

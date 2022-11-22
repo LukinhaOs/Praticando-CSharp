@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercício Entities e Serviços/1.0.0": {
+        "runtime": {
+          "Exercício Entities e Serviços.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício Entities e Serviços/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\bin\Debug\netcoreapp3.1\Exercício LINQ.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\bin\Debug\netcoreapp3.1\Exercício LINQ.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\bin\Debug\netcoreapp3.1\Exercício LINQ.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\bin\Debug\netcoreapp3.1\Exercício LINQ.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\bin\Debug\netcoreapp3.1\Exercício LINQ.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\bin\Debug\netcoreapp3.1\Exercício LINQ.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\obj\Debug\netcoreapp3.1\Exercício LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\obj\Debug\netcoreapp3.1\Exercício LINQ.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\obj\Debug\netcoreapp3.1\Exercício LINQ.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\obj\Debug\netcoreapp3.1\Exercício LINQ.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\obj\Debug\netcoreapp3.1\Exercício LINQ.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\obj\Debug\netcoreapp3.1\Exercício LINQ.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício LINQ\Exercício LINQ\obj\Debug\netcoreapp3.1\Exercício LINQ.genruntimeconfig.cache

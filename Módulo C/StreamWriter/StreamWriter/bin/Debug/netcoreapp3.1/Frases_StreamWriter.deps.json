@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Frases_StreamWriter/1.0.0": {
+        "runtime": {
+          "Frases_StreamWriter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frases_StreamWriter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\bin\Debug\netcoreapp3.1\Exercício Lambda_Linq.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\bin\Debug\netcoreapp3.1\Exercício Lambda_Linq.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\bin\Debug\netcoreapp3.1\Exercício Lambda_Linq.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\bin\Debug\netcoreapp3.1\Exercício Lambda_Linq.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\bin\Debug\netcoreapp3.1\Exercício Lambda_Linq.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\bin\Debug\netcoreapp3.1\Exercício Lambda_Linq.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício Lambda_Linq\Exercício Lambda_Linq\obj\Debug\netcoreapp3.1\Exercício Lambda_Linq.genruntimeconfig.cache

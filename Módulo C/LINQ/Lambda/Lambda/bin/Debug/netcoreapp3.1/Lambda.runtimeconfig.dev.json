@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LucasSilva-AfixCode\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LucasSilva-AfixCode\\.nuget\\packages"
+    ]
+  }
+}

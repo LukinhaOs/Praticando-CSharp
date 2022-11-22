@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\bin\Debug\netcoreapp3.1\Exercício - GetHashCode.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\bin\Debug\netcoreapp3.1\Exercício - GetHashCode.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\bin\Debug\netcoreapp3.1\Exercício - GetHashCode.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\bin\Debug\netcoreapp3.1\Exercício - GetHashCode.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\bin\Debug\netcoreapp3.1\Exercício - GetHashCode.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\bin\Debug\netcoreapp3.1\Exercício - GetHashCode.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - GetHashCode\Exercício - GetHashCode\obj\Debug\netcoreapp3.1\Exercício - GetHashCode.genruntimeconfig.cache

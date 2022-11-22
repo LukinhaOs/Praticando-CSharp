@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\bin\Debug\netcoreapp3.1\Directory e Directory Info.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\bin\Debug\netcoreapp3.1\Directory e Directory Info.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\bin\Debug\netcoreapp3.1\Directory e Directory Info.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\bin\Debug\netcoreapp3.1\Directory e Directory Info.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\bin\Debug\netcoreapp3.1\Directory e Directory Info.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\bin\Debug\netcoreapp3.1\Directory e Directory Info.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.csproj.AssemblyReference.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Directory e Directory Info\Directory e Directory Info\obj\Debug\netcoreapp3.1\Directory e Directory Info.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\bin\Debug\netcoreapp3.1\Exercício - SystemIO.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\bin\Debug\netcoreapp3.1\Exercício - SystemIO.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\bin\Debug\netcoreapp3.1\Exercício - SystemIO.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\bin\Debug\netcoreapp3.1\Exercício - SystemIO.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\bin\Debug\netcoreapp3.1\Exercício - SystemIO.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\bin\Debug\netcoreapp3.1\Exercício - SystemIO.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.genruntimeconfig.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Exercício - SystemIO\Exercício - SystemIO\obj\Debug\netcoreapp3.1\Exercício - SystemIO.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary e SortedDictionary.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\Dictionary e SortedDictionary\Dictionary e SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary e SortedDictionary.genruntimeconfig.cache

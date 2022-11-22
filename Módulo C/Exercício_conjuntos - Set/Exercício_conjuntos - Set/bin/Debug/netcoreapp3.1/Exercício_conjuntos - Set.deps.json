@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercício_conjuntos - Set/1.0.0": {
+        "runtime": {
+          "Exercício_conjuntos - Set.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício_conjuntos - Set/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

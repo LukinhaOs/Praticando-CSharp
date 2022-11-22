@@ -1,0 +1,13 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\bin\Debug\netcoreapp3.1\HashSet_Parte2.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\bin\Debug\netcoreapp3.1\HashSet_Parte2.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\bin\Debug\netcoreapp3.1\HashSet_Parte2.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\bin\Debug\netcoreapp3.1\HashSet_Parte2.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\bin\Debug\netcoreapp3.1\HashSet_Parte2.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\bin\Debug\netcoreapp3.1\HashSet_Parte2.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\obj\Debug\netcoreapp3.1\HashSet_Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\obj\Debug\netcoreapp3.1\HashSet_Parte2.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\obj\Debug\netcoreapp3.1\HashSet_Parte2.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\obj\Debug\netcoreapp3.1\HashSet_Parte2.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\obj\Debug\netcoreapp3.1\HashSet_Parte2.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\obj\Debug\netcoreapp3.1\HashSet_Parte2.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet_Parte2\HashSet_Parte2\obj\Debug\netcoreapp3.1\HashSet_Parte2.genruntimeconfig.cache

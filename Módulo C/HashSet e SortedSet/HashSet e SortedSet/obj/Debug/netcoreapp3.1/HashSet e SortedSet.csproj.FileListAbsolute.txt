@@ -1,0 +1,14 @@
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\bin\Debug\netcoreapp3.1\HashSet e SortedSet.exe
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\bin\Debug\netcoreapp3.1\HashSet e SortedSet.deps.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\bin\Debug\netcoreapp3.1\HashSet e SortedSet.runtimeconfig.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\bin\Debug\netcoreapp3.1\HashSet e SortedSet.runtimeconfig.dev.json
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\bin\Debug\netcoreapp3.1\HashSet e SortedSet.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\bin\Debug\netcoreapp3.1\HashSet e SortedSet.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.AssemblyInfoInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.AssemblyInfo.cs
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.dll
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.pdb
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.genruntimeconfig.cache
+C:\Users\LucasSilva-AfixCode\Documents\Programação_CSharp\Módulo C\HashSet e SortedSet\HashSet e SortedSet\obj\Debug\netcoreapp3.1\HashSet e SortedSet.csproj.AssemblyReference.cache
